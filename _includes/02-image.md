@@ -1,1 +1,1 @@
-#_includes/02-cissoko.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
