@@ -1,3 +1,3 @@
-1. James Madison
-2. James Monroe
+* James Madison
+- James Monroe
 - Thomas Jefferson
